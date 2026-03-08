@@ -1,0 +1,39 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/Eric_Kaba.png"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/fzliu1997/
+    - text: ORCID
+      href: https://orcid.org/0009-0006-7445-0495
+    - icon: github
+      text: Github
+      href: https://github.com/fzliu1997
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/eric-liu-1230cwru/
+    - icon: envelope
+      text: Email
+      href: "mailto:fxl198@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Hello! My name is Fangzhou (Eric) Liu!
+
+I am a full-time biostatistician in the Department of Population and Quantitative Health Sciences at Case Western Reserve University, as well as part of the Thoracic Oncology Program at University Hospitals. Meanwhile, I am also a part-time first-year Clinical Translational Science PhD student. 
+
+My work spans cancer epidemiology, health outcomes research, spatial analysis, and applied machine learning. I specialize in R, Python, Tableau, and ArcGIS Pro, and I am passionate about building rigorous, reproducible analyses that support scientific discovery and real-world decision-making.
+
+I am involved in several projects that integrate clinical data and social determinants of health. My current research includes cancer outcomes analysis using large administrative datasets, time-to-event and survival modeling, and spatial studies examining health disparities across communities. 
+
+Outside of research, I enjoy photography, travel, and spending time with my wife, Yuan, and our cat, Kaba.
+
+Welcome to my website, and thank you for visiting!
+
+Please feel free to [contact me](mailto:fxl198@case.edu) if you have any questions or would like to discuss potential collaborations.
+
