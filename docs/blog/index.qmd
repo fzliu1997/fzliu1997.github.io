@@ -1,0 +1,26 @@
+---
+title: Blog
+---
+
+<br>
+
+## What I Learned About Being a Modern Scientist
+
+*March 8th 2026*
+
+One of the most meaningful lessons I learned from reading *How to Be a Modern Scientist* by Jeffrey Leek is that modern scientific work is no longer limited to publishing papers. Traditionally, scientists were evaluated mostly based on peer-reviewed journal articles, but the landscape of science is rapidly changing. Today, communication, data sharing, reproducible code, and open collaboration are becoming essential parts of the scientific process. This idea changed how I think about what it means to contribute to science.
+
+A concept that stood out to me was the importance of openness and reproducibility. Modern scientists are encouraged to share their data, code, and research materials so that others can verify and build upon their work. According to Leek, sharing data and code is a cornerstone of modern scientific practice because it allows results to be checked and reused by other researchers. This approach improves transparency and strengthens the credibility of scientific findings. As someone who works with statistical analysis and programming, I realized that making analyses reproducible is just as important as producing the results themselves.
+
+Another idea I found valuable is the role of communication outside traditional journals. Modern scientists can use tools like blogs, preprints, and social media to share their work quickly and engage with the broader community. These tools allow research to reach audiences much faster than the traditional publishing process, which can take months or even years. They also provide opportunities for feedback and collaboration from researchers across the world.
+
+Finally, this reading helped me understand that being a modern scientist requires more than technical expertise. It also involves sharing knowledge openly, communicating clearly, and contributing to a broader scientific community. In many ways, scientists today function not only as researchers but also as educators, programmers, and communicators. Adopting these practices can increase the impact of research and help science progress more efficiently.
+
+Overall, the key lesson I learned is that modern science values openness, collaboration, and transparency. By sharing data, publishing reproducible analyses, and communicating research widely, scientists can make their work more useful and impactful. This perspective has encouraged me to think more carefully about how I conduct and present my own research in the future.
+
+**Reference:** Leek, Jeffrey. *How to be a Modern Scientist*. Leanpub, 2016.
+
+
+
+
+
